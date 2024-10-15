@@ -1,0 +1,35 @@
+# Ignore system and configuration files
+.bash_history
+.config/
+.gitconfig
+.ipython/
+.lesshst
+.m2/
+.matplotlib/
+.nbi/
+.node_repl_history
+.prefs/
+.quokka/
+.redhat/
+.sonarlint/
+.vscode/
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Microsoft/
+Music/
+NTUSER.DAT*
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+npm-cache/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+readmejava.md
