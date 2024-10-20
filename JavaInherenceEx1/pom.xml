@@ -10,4 +10,5 @@
         <maven.compiler.release>23</maven.compiler.release>
         <exec.mainClass>com.mycompany.javainherenceex1.JavaInherenceEx1</exec.mainClass>
     </properties>
+    <name>JavaInherenceEx1</name>
 </project>
