@@ -8,18 +8,18 @@ package com.mycompany.javainherenceex3;
  *
  * @author Martyna
  */
-public class Employee {
-    private int salary;
+public class HRManager extends Employee {
     
-        public Employee(int salary) {
-        this.salary = salary;
+    public HRManager(int salary) {
+    super(salary);
     }
     
-     public void work(){
-    System.out.println("working as an employee!");
+   
+      public void work() {
+     System.out.println("\nManaging employees");
     }
     
-    public double getSalary(){
-    return salary;}
-    
+     public void addEmployee() {
+     System.out.println("\nAdding new employee!");
+    }
 }
